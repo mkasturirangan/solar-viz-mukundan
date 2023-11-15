@@ -5,7 +5,7 @@ Solar Viz is a data analysis project, where we extract Engie’s api to answer t
 
 
 ## Development
-1. Clone the repo - [github.com/lukemoenning/solar-viz](https://github.com/lukemoenning/solar-viz)
+1. Clone the repo - [github.com/mkasturirangan/solar-viz-mukundan](https://github.com/mkasturirangan/solar-viz-mukundan)
 
 2. Build a docker image 
 ```
@@ -25,4 +25,4 @@ docker-compose down
 ```
 
 
-For any suggestions, problems, or questions reach out to [moenningluke@gmail.com](moenningluke@gmail.com)
+For any suggestions, problems, or questions reach out to [kasturiranganmukundan@gmail.com](kasturiranganmukundan@gmail.com)
